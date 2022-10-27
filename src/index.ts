@@ -1,6 +1,6 @@
 /**
  * index class (1)
- * By:      Daria Bernice Calitis
+ * By:      rodas' bangalore cut
  * Version: 1.0
  * Since:   2022-10-13
  */
